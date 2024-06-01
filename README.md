@@ -18,7 +18,7 @@
 
 
 #### 📖 스캐닝
-
+[아키텍처란? - 아키텍처의 가치를 이해하고 설계하기](scanning/what-is-architecture.md)
 
 #### 💭 꼬리 생각
 
